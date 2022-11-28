@@ -1,0 +1,33 @@
+div.content{
+    border: 5px solid black;
+    float: left;
+    margin: 20px;
+}
+
+div#box1{
+    background-color: aqua;
+    height: 500px;
+    width: 1025px;
+ 
+    
+}
+
+div#box2{
+    background-color: rgb(255, 0, 13);
+    height: 150px;
+    width: 250px;
+    margin-left: ;
+}
+
+div#box3{
+    background-color: rgb(9, 255, 0);
+    height: 150px;
+    width: 250px;
+}
+
+div#box4{
+    background-color: rgb(251, 0, 255);
+    height: 150px;
+    width: 250px;
+    margin-left: 185px;
+}
